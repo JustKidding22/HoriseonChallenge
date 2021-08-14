@@ -8,7 +8,9 @@ body {
     background-color: #d9dcd6;
 }
 
-
+p {
+    font-size: 16px;
+}
 
 /* Header Nav start */
 
@@ -51,10 +53,6 @@ a {
 }
 
 /* Header Nav End */
-
-p {
-    font-size: 16px;
-}
 
 /* Hero Start */
 
@@ -148,6 +146,8 @@ p {
 
 /* Aside End */
 
+/* Hero classes */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -202,6 +202,10 @@ p {
     font-size: 36px;
 }
 
+/* Hero Classes End */
+
+/* Footer */
+
 footer {
     padding: 30px;
     clear: both;
@@ -212,3 +216,5 @@ footer {
 footer h4 {
     font-size: 20px;
 }
+
+/* Footer End */
